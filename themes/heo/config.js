@@ -19,19 +19,19 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '技术分享',
-  HEO_HERO_TITLE_2: '干中学 · 学中干',
-  HEO_HERO_TITLE_3: 'NEXTDEEP.CN',
+  HEO_HERO_TITLE_1: '技术 · 无界无罪',
+  HEO_HERO_TITLE_2: '干中学 · 学中干 · 不止步',
+  HEO_HERO_TITLE_3: 'NEXTDEEP.CC',
   HEO_HERO_TITLE_4: '重磅推荐',
   HEO_HERO_TITLE_5: '多学科融合 技术交叉成果',
   HEO_HERO_TITLE_LINK: 'https://space.bilibili.com/388561300',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随机 · 盲盒',
+  HEO_HERO_COVER_TITLE: '技术 · 盲盒',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '博主精选', url: '/tag/博主精选' },
   HEO_HERO_CATEGORY_2: { title: '热门课程', url: '/tag/热门课程' },
-  HEO_HERO_CATEGORY_3: { title: '自我提升', url: '/tag/自我提升' },
+  HEO_HERO_CATEGORY_3: { title: '终身学习', url: '/tag/终身学习' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '特别推荐',

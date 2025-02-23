@@ -68,7 +68,7 @@ const BLOG = {
   UUID_REDIRECT: process.env.UUID_REDIRECT || false
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
-  CONTACT_BILIBILI: process.env.NEXT_PUBLIC_CONTACT_BILIBILI || 'https://space.bilibili.com/388561300', // B站主页
+  CONTACT_BILIBILI: process.env.NEXT_PUBLIC_CONTACT_BILIBILI || 'https://space.bilibili.com/388561300' // B站主页
   
 
 }

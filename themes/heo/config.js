@@ -19,9 +19,9 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '技术 · 无界无罪',
+  HEO_HERO_TITLE_1: '技术 无界 无罪',
   HEO_HERO_TITLE_2: '干中学 · 学中干 · 不止步',
-  HEO_HERO_TITLE_3: 'NEXTDEEP.CC',
+  HEO_HERO_TITLE_3: 'NextDeep.cc',
   HEO_HERO_TITLE_4: '重磅推荐',
   HEO_HERO_TITLE_5: '多学科融合 技术交叉成果',
   HEO_HERO_TITLE_LINK: 'https://space.bilibili.com/388561300',

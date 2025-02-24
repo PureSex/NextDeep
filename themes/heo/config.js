@@ -10,7 +10,7 @@ const CONFIG = {
   HEO_NOTICE_BAR: [
     { title: '行业 · 深度 | 深耕细作，方显匠心本色', url: 'https://space.bilibili.com/388561300' },
     { title: '探索 · 无限 | 无畏探索，开启无限可能', url: 'https://space.bilibili.com/388561300' },
-    { title: '内容 · 优雅 | 内容未为魂，优雅雕琢时光', url: 'https://space.bilibili.com/388561300' }
+    { title: '内容 · 优雅 | 内容为魂，优雅雕琢时光', url: 'https://space.bilibili.com/388561300' }
   ],
 
   // 英雄区左右侧组件颠倒位置

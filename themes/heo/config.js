@@ -24,7 +24,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'NextDeep.cc',
   HEO_HERO_TITLE_4: '重磅推荐',
   HEO_HERO_TITLE_5: '多学科融合 技术交叉成果',
-  HEO_HERO_TITLE_LINK: 'https://space.bilibili.com/388561300',
+  HEO_HERO_TITLE_LINK: 'https://blog.nextdeep.cc/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '技术 · 盲盒',
 
